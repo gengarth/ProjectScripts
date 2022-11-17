@@ -1,0 +1,15 @@
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\bin\Debug\net6.0\ProjectScripts.exe
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\bin\Debug\net6.0\ProjectScripts.deps.json
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\bin\Debug\net6.0\ProjectScripts.runtimeconfig.json
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\bin\Debug\net6.0\ProjectScripts.dll
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\bin\Debug\net6.0\ProjectScripts.pdb
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\obj\Debug\net6.0\ProjectScripts.csproj.AssemblyReference.cache
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\obj\Debug\net6.0\ProjectScripts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\obj\Debug\net6.0\ProjectScripts.AssemblyInfoInputs.cache
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\obj\Debug\net6.0\ProjectScripts.AssemblyInfo.cs
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\obj\Debug\net6.0\ProjectScripts.csproj.CoreCompileInputs.cache
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\obj\Debug\net6.0\ProjectScripts.dll
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\obj\Debug\net6.0\refint\ProjectScripts.dll
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\obj\Debug\net6.0\ProjectScripts.pdb
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\obj\Debug\net6.0\ProjectScripts.genruntimeconfig.cache
+C:\Users\cbden\CodeProjects\Projects\ProjectScripts\obj\Debug\net6.0\ref\ProjectScripts.dll
